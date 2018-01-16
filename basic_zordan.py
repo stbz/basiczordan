@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 
 from cogs import dbfunc, misc
-import config
 import os
 
 description = '''The ZordanBot'''
