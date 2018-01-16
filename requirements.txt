@@ -1,0 +1,3 @@
+TinyDB
+ujson
+discord.py
