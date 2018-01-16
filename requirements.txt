@@ -1,3 +1,4 @@
 TinyDB
 ujson
 discord.py
+boto
